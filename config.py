@@ -5,19 +5,18 @@ from telebot import types
 # stable
 # channels_name = ["SinopsisBTC Чат", "spiboba320"]
 # channels_id = [-1001854259380, -1002213476974]
-# channels_link = ["[Sinopsis](https://t.me/SINOPSIS_BTC)", "https://t.me/+PL2-eQPUhPg0Y2Ni"]
+# channels_link = ["https://t.me/SINOPSIS_BTC", "https://t.me/+PL2-eQPUhPg0Y2Ni"]
 
 
 
 # test
-channels_name = ["моча", "говно"]
-channels_id = [-1001933170371, -1001998285090 ]
-channels_link = ["[моча](https://t.me/testmylikedddd)", "https://t.me/cttssshh241"]
+channels_name = ["канал", "чат"]
+channels_id = [-1001851924354, -1001854259380 ]
+channels_link = ["https://t.me/SINOPSISBTC", "https://t.me/SINOPSIS_BTC"]
 
 #меню
 main_menu_buttons = [ 
     'Список игр',
-   
     'Описание бота',
     'Партнерство и обратная связь'
     ]
@@ -35,19 +34,19 @@ def markup_main_menu():
 games = [
     '<Назад',
     'Blum', 
-    'Хомяки', 
+    'Hamster kombat', 
     'Zavod',
     'PocketFi',
     'PixelTap',
-    'Котики', 
-    'Биттон', 
-    'Хот', 
+    'Catizen', 
+    'Bitton', 
+    'Hot', 
     'МТК', 
-    'bcoin 2048',
-    'cyber finance', 
-    'memefi', 
-    'vertus', 
-    'fuel', 
+    'Bcoin 2048',
+    'Cyber finance', 
+    'Memefi', 
+    'Vertus', 
+    'Fuel', 
     'Tapswap', 
     'Wave Wallet mining Ocean', 
      
@@ -66,7 +65,7 @@ def markup_games():
 
 blum_buttons = [
     'Назад','Чат 🖤','Информация о проекте 🖤',
-    '8 часов 🖤']
+    '8 часов 🖤', 'Свой таймер']
 
 def blum_markup():
     markup = types.ReplyKeyboardMarkup(resize_keyboard= True)
@@ -80,7 +79,7 @@ def blum_markup():
 
 humster_buttons = [
     'Назад','Чат 🐹','Информация о проекте 🐹',
-    '3 часа 🐹']
+    '3 часа 🐹', 'Свой таймер']
 
 def humster_markup():
     markup = types.ReplyKeyboardMarkup(resize_keyboard= True)
@@ -94,7 +93,7 @@ def humster_markup():
 
 zavod_buttons = [
     'Назад','Чат 🏗️','Информация о проекте 🏗️',
-    '3 часа 🏗️']
+    '3 часа 🏗️', 'Свой таймер']
 
 def zavod_markup():
     markup = types.ReplyKeyboardMarkup(resize_keyboard= True)
@@ -108,7 +107,7 @@ def zavod_markup():
 
 pocketfi_buttons = [
     'Назад','Чат 📱','Информация о проекте 📱',
-    '3 часа 📱']
+    '3 часа 📱', 'Свой таймер']
 
 def pocketfi_markup():
     markup = types.ReplyKeyboardMarkup(resize_keyboard= True)
@@ -122,7 +121,7 @@ def pocketfi_markup():
 
 pixeltap_buttons = [
     'Назад','Чат 👾','Информация о проекте 👾',
-    '3 часа 👾']
+    '3 часа 👾', 'Свой таймер']
 
 def pixeltap_markup():
     markup = types.ReplyKeyboardMarkup(resize_keyboard= True)
@@ -136,7 +135,7 @@ def pixeltap_markup():
 
 cats_buttons = [
     'Назад','Чат 🐱','Информация о проекте 🐱',
-    '3 часа 🐱']
+    '3 часа 🐱', 'Свой таймер']
 
 def cats_markup():
     markup = types.ReplyKeyboardMarkup(resize_keyboard= True)
@@ -150,7 +149,7 @@ def cats_markup():
 
 bitton_buttons = [
     'Назад','Чат 💼','Информация о проекте 💼',
-    '3 часа 💼']
+    '3 часа 💼', 'Свой таймер']
 
 def bitton_markup():
     markup = types.ReplyKeyboardMarkup(resize_keyboard= True)
@@ -164,7 +163,7 @@ def bitton_markup():
 
 hot_buttons = [
     'Назад','Чат 🔥','Информация о проекте 🔥',
-    '2 часа 🔥', '3 часа 🔥', '4 часа 🔥', '5 часа 🔥', '6 часа 🔥']
+    '2 часа 🔥', 'Свой таймер']
 
 def hot_markup():
     markup = types.ReplyKeyboardMarkup(resize_keyboard= True)
@@ -178,7 +177,7 @@ def hot_markup():
 
 mtk_buttons = [
     'Назад','Чат 🏦','Информация о проекте 🏦',
-    '3 часа 🏦']
+    '3 часа 🏦', 'Свой таймер']
 
 def mtk_markup():
     markup = types.ReplyKeyboardMarkup(resize_keyboard= True)
@@ -192,7 +191,7 @@ def mtk_markup():
 
 bcoin2048_buttons = [
     'Назад','Чат 🌚','Информация о проекте 🌚',
-    '3 часа 🌚']
+    '3 часа 🌚', 'Свой таймер']
 
 def bcoin2048_markup():
     markup = types.ReplyKeyboardMarkup(resize_keyboard= True)
@@ -213,7 +212,7 @@ def bcoin2048_markup():
 
 cyber_finance_buttons = [
     'Назад','Чат 🔨','Информация о проекте 🔨',
-    '3 часа 🔨']
+    '3 часа 🔨', 'Свой таймер']
 
 def cyber_finance_markup():
     markup = types.ReplyKeyboardMarkup(resize_keyboard= True)
@@ -227,7 +226,7 @@ def cyber_finance_markup():
 
 memefi_buttons = [
     'Назад','Чат ⚔️','Информация о проекте ⚔️',
-    '3 часа ⚔️']
+    '3 часа ⚔️', 'Свой таймер']
 
 def memefi_markup():
     markup = types.ReplyKeyboardMarkup(resize_keyboard= True)
@@ -241,7 +240,7 @@ def memefi_markup():
 
 vertus_buttons = [
     'Назад','Чат 🍀','Информация о проекте 🍀',
-    '3 часа 🍀']
+    '3 часа 🍀', 'Свой таймер']
 
 def vertus_markup():
     markup = types.ReplyKeyboardMarkup(resize_keyboard= True)
@@ -255,7 +254,7 @@ def vertus_markup():
 
 fuel_buttons = [
     'Назад','Чат 🅾️','Информация о проекте 🅾️',
-    '3 часа 🅾️']
+    '3 часа 🅾️', 'Свой таймер']
 
 def fuel_markup():
     markup = types.ReplyKeyboardMarkup(resize_keyboard= True)
@@ -269,7 +268,7 @@ def fuel_markup():
 
 tapswap_buttons = [
     'Назад','Чат 🌕','Информация о проекте 🌕',
-    '3 часа 🌕']
+    '3 часа 🌕', 'Свой таймер']
 
 def tapswap_markup():
     markup = types.ReplyKeyboardMarkup(resize_keyboard= True)
@@ -283,7 +282,7 @@ def tapswap_markup():
 
 wave_wallet_mining_ocean_buttons = [
     'Назад','Чат 🌴','Информация о проекте 🌴',
-    '3 часа 🌴']
+    '3 часа 🌴', 'Свой таймер']
 
 def wave_wallet_mining_ocean_markup():
     markup = types.ReplyKeyboardMarkup(resize_keyboard= True)
