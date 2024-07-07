@@ -143,7 +143,7 @@ def handle_first_buttons(message):
 def handle_first_buttons(message):
     chat = '[Hamster Kombot](https://t.me/hamster_kombat_chat)'
     description = '[Hamster Kombot](https://t.me/hamster_kombaT_bot/start?startapp=kentId1901528332) — это игра в жанре кликер, в которую можно играть в мессенджере Telegram. В ней предлагается превратить хомяка в гендиректора успешной компании, кликая на монетку (отсюда и название — кликер) и покупая карточки улучшения.'
-    timer = 'Пора почесать свою мохнатку https://t.me/hamster_kombaT_bot/start?startapp=kentId1901528332'
+    timer = 'Пора почесать свою мохнатку \n https://t.me/hamster_kombaT_bot/start?startapp=kentId1901528332 \n Не забудь повторно установить таймер'
     
     arr_buttons = humster_buttons
 
@@ -172,7 +172,7 @@ def handle_first_buttons(message):
 def handle_first_buttons(message):
     chat = '[Blum](https://t.me/blumcrypto)'
     description = '[Blum](t.me/BlumCryptoBot/app?startapp=ref_TvS5V1tzQv) Crypto — это гибридная биржа, обеспечивающая легкий доступ к любым монетам и токенам, а также простым деривативам через мини-приложение Telegram. Это мини-игра в Telegram, в котором пользователям доступен фарм Points, это же в будущем токен.'
-    timer = 'Я хоть и не феечка, но пора меня потыкать... t.me/BlumCryptoBot/app?startapp=ref_TvS5V1tzQv'
+    timer = 'Я хоть и не феечка, но пора меня потыкать... \n t.me/BlumCryptoBot/app?startapp=ref_TvS5V1tzQv \n Не забудь повторно установить таймер'
     
     arr_buttons = blum_buttons
 
@@ -201,7 +201,7 @@ def handle_first_buttons(message):
 def handle_first_buttons(message):
     chat = '[Hot](https://t.me/hotonnear)'
     description = '[HOT](https://t.me/herewalletbot/app?startapp=9415231) - это центральный элемент экосистемы NEAR внутри Telegram. Благодаря мета-транзакциям использование HOT позволяет совершать реальные транзакции на блокчейне, играть в игры и оплачивать переводы. Это первая FT, которая обладает функциональностью нативных токенов блокчейна L1'
-    timer = 'Пора подкинуть дров 🔥 https://t.me/herewalletbot/app?startapp=9415231'
+    timer = 'Пора подкинуть дров 🔥 \n https://t.me/herewalletbot/app?startapp=9415231 \n Не забудь повторно установить таймер'
     
     
 
@@ -234,7 +234,7 @@ def handle_first_buttons(message):
 def handle_first_buttons(message):
     chat = '[PocketFi](https://t.me/pocketfi)'
     description = '[PocketFi](t.me/pocketfi_bot/Mining?startapp=1901528332) — отличное решение для кроссчейн переводов, обменов, а также снайпинга и копитрейдинга. Оно призвано упростить взаимодействие с DeFi при помощи Telegram и платформы Mini Apps. С ним можно обменивать токены и зарабатывать на снайпинге. Простыми словами вы можете обменять токены TON на ETH и т.д.'
-    timer = 'Крути лудильню  t.me/pocketfi_bot/Mining?startapp=1901528332'
+    timer = 'Крути лудильню \n t.me/pocketfi_bot/Mining?startapp=1901528332 \n Не забудь повторно установить таймер'
     
     arr_buttons = pocketfi_buttons
 
@@ -263,7 +263,7 @@ def handle_first_buttons(message):
 def handle_first_buttons(message):
     chat = '[PixelTap](https://t.me/pixelverse_xyz)'
     description = '[PixelTap](https://t.me/pixelversexyzbot?start=1901528332) - это приложение не только для майнинга будущего токена PIXFI, с последующим аирдропом, но и игра, в которой ты становишься частью игровых событий. Разве это неудивительно?'
-    timer = 'Пора уничтожить пикслели https://t.me/pixelversexyzbot?start=1901528332'
+    timer = 'Пора уничтожить пикслели \n https://t.me/pixelversexyzbot?start=1901528332 \n Не забудь повторно установить таймер'
     
     arr_buttons = pixeltap_buttons
 
@@ -292,7 +292,7 @@ def handle_first_buttons(message):
 def handle_first_buttons(message):
     chat = '[Zavod](https://t.me/mdaowallet_telegram_chat)'
     description = 'MDAO Telegram Wallet предлагает весьма необычный способ заработка - работу на [Zavod](https://t.me/Marswallet_bot?start=ref_1901528332). Этот завод открылся и разыскивает работников на самые базовые должности. Обещают сдельную оплату, но забудьте о кофе и печеньях - их здесь нет.'
-    timer = 'Крипта для лохов, завод тема норм пацанов https://t.me/mdaowallet_telegram_chat'
+    timer = 'Крипта для лохов, завод тема норм пацанов \n https://t.me/mdaowallet_telegram_chat \n Не забудь повторно установить таймер'
     
     arr_buttons = zavod_buttons
 
@@ -321,7 +321,7 @@ def handle_first_buttons(message):
 def handle_first_buttons(message):
     chat = '[Catizen](https://t.me/CatizenAI/1)'
     description = '[Catizen](https://t.me/catizenbot/gameapp?startapp=r_1312_2420164) AI — это проект Play to Airdrop, сочетающий в себе Metaverse, Game Fi и Ai. Команда Catizen Ai заключила партнерское соглашение с Ton Fish, чтобы сделать экосистему Metaverse доступной для большего числа пользователей.'
-    timer = 'Пора поческать своих кисок https://t.me/catizenbot/gameapp?startapp=r_1312_2420164'
+    timer = 'Пора поческать своих кисок \n https://t.me/catizenbot/gameapp?startapp=r_1312_2420164 \n Не забудь повторно установить таймер'
     
     arr_buttons = cats_buttons
 
@@ -350,7 +350,7 @@ def handle_first_buttons(message):
 def handle_first_buttons(message):
     chat = '[Bitton](https://t.me/bittonapp)'
     description = 'Криптовалюта [Bitton](https://t.me/bittonapp_bot?start=eq86dih4) – это часть новой игровой экосистемы в «Телеграмм», в которой каждый клик по телефону позволяет бесплатно добыть сразу два токена: BTC и BTN. В этом обзоре мы разберем, чего ждать пользователям от тапалки Bitton и как люди зарабатывают через данный бот в “Телеграмм”.'
-    timer = 'Потыкай монету, а то она уже залежалась (https://t.me/bittonapp_bot?start=eq86dih4'
+    timer = 'Потыкай монету, а то она уже залежалась \n (https://t.me/bittonapp_bot?start=eq86dih4 \n Не забудь повторно установить таймер'
     
     arr_buttons = bitton_buttons
 
@@ -380,7 +380,7 @@ def handle_first_buttons(message):
 def handle_first_buttons(message):
     chat = '[MTK](https://t.me/metatokens_mtk)'
     description = '[MTK](https://t.me/mtkbossbot?start=ref1901528332) CLICKER MAFIA - кликер от казино METATOKENS, где каждый игрок становится его совладельцем.'
-    timer = 'Кажется ты задолжал нам крумную сумму деняг... https://t.me/mtkbossbot?start=ref1901528332'
+    timer = 'Кажется ты задолжал нам крумную сумму деняг...\n https://t.me/mtkbossbot?start=ref1901528332 \n Не забудь повторно установить таймер'
     
     arr_buttons = mtk_buttons
 
@@ -409,7 +409,7 @@ def handle_first_buttons(message):
 def handle_first_buttons(message):
     chat = '[Bcoin2048](https://t.me/bcoin2048)'
     description = '[Bcoin](https://t.me/Bcoin2048bot/app?startapp=ref_pCGp_C-12nFdKZCldsgWLLes) - всеми известная игра в 2048 вышла в мире web3'
-    timer = 'Прошло 21600 секунд,а ты до сих пор не собрал 2048 https://t.me/Bcoin2048bot/app?startapp=ref_pCGp_C-12nFdKZCldsgWLLes'
+    timer = 'Прошло 21600 секунд,а ты до сих пор не собрал 2048 \n https://t.me/Bcoin2048bot/app?startapp=ref_pCGp_C-12nFdKZCldsgWLLes \n Не забудь повторно установить таймер'
     
     arr_buttons = bcoin2048_buttons
 
@@ -439,7 +439,7 @@ def handle_first_buttons(message):
 def handle_first_buttons(message):
     chat = '[cyber finance](https://t.me/CyberFinanceChat)'
     description = '[Cyber Finance](https://t.me/CyberFinanceBot?start=cj1xaXE0ejk3Y2dZMjcmdT1yZWY=) - это DeFi для высокой доходности и  ликвидности, доступный непосредственно в Telegram. '
-    timer = 'Настало время разить яйцо https://t.me/CyberFinanceBot?start=cj1xaXE0ejk3Y2dZMjcmdT1yZWY='
+    timer = 'Настало время разить яйцо \n https://t.me/CyberFinanceBot?start=cj1xaXE0ejk3Y2dZMjcmdT1yZWY= \n Не забудь повторно установить таймер'
     
     arr_buttons = cyber_finance_buttons
 
@@ -468,7 +468,7 @@ def handle_first_buttons(message):
 def handle_first_buttons(message):
     chat = '[memefi](https://t.me/memeficlub)'
     description = '[MemeFi](https://t.me/memefi_coin_bot?start=r_b55dbd1a8f) функционирует по принципу, схожему с NotCoin: нужно кликать по экрану, прокачивать аккаунт, копить монеты и выполнять особые задания. Уникальность MemeFi заключается в собственной сказочной истории, которая делает игру значительно интереснее.'
-    timer = 'Пора вернуться на сказочное болото и надавать всем по щам https://t.me/memefi_coin_bot?start=r_b55dbd1a8f'
+    timer = 'Пора вернуться на сказочное болото и надавать всем по щам \n https://t.me/memefi_coin_bot?start=r_b55dbd1a8f \n Не забудь повторно установить таймер'
     
     arr_buttons = memefi_buttons
 
@@ -497,7 +497,7 @@ def handle_first_buttons(message):
 def handle_first_buttons(message):
     chat = '[Vertus](https://t.me/thevertus_chat)'
     description = '[Vertus](https://t.me/vertus_app_bot/app?startapp=1901528332)- это децентрализованное Web3-приложение, которое построено на блокчейне TON и доступно напрямую через Телеграмм. В самой игре мы добываем токены $VERT, которых в будущем ожидает листинг (по заверению разработчиков).'
-    timer = 'Не забывай про деревню https://t.me/vertus_app_bot/app?startapp=1901528332'
+    timer = 'Не забывай про деревню \n https://t.me/vertus_app_bot/app?startapp=1901528332 \n Не забудь повторно установить таймер'
     
     arr_buttons = vertus_buttons
 
@@ -526,7 +526,7 @@ def handle_first_buttons(message):
 def handle_first_buttons(message):
     chat = '[Fuel](https://t.me/fueljetton)'
     description = '[Fuel](https://t.me/fueljetton_bot/app?startapp=1901528332) Jetton - это полностью бесплатная игра на популярном блокчейне TON, в которой нужно майнить нефть (Fuel Mining) или по-нашему добывать нефть (топливо).'
-    timer = 'Пора пампить нефть https://t.me/fueljetton_bot/app?startapp=1901528332'
+    timer = 'Пора пампить нефть \n https://t.me/fueljetton_bot/app?startapp=1901528332 \n Не забудь повторно установить таймер'
     
     arr_buttons = fuel_buttons
 
@@ -555,7 +555,7 @@ def handle_first_buttons(message):
 def handle_first_buttons(message):
     chat = '[Tapswap](https://t.me/tapswap)'
     description = '[TapSwap](https://t.me/tapswap_mirror_1_bot?start=r_1901528332) — это игра-кликер в Telegram, позволяющая пользователям зарабатывать виртуальные токены с помощью различных функций майнинга в приложении. Это очередная тапалка на блокчейне TON, которых уже было несколько к сегодняшнему дню. '
-    timer = 'Пора потапать https://t.me/tapswap_mirror_1_bot?start=r_1901528332 '
+    timer = 'Пора потапать \n https://t.me/tapswap_mirror_1_bot?start=r_1901528332 \n Не забудь повторно установить таймер'
     
     arr_buttons = tapswap_buttons
 
@@ -584,7 +584,7 @@ def handle_first_buttons(message):
 def handle_first_buttons(message):
     chat = '[Wave Wallet mining Ocean](https://t.me/wave_announcements)'
     description = '[Wave Walley](t.me/waveonsuibot/walletapp?startapp=5066328)— это многофункциональный (в обозримом будущем) кошелёк с возможностью майнинга токена $OCEAN. Сам кошелёк разработан на блокчейне SUI, что уже не может не радовать, транзакции в сети SUI практически моментальные + мизерные комиссии, имеет довольно простой и интуитивно понятный интерфейс.'
-    timer = 'Запрыгивай на волну https://t.me/waveonsuibot?startapp=5066328'
+    timer = 'Запрыгивай на волну \n https://t.me/waveonsuibot?startapp=5066328 \n Не забудь повторно установить таймер'
     
     arr_buttons = wave_wallet_mining_ocean_buttons
 
